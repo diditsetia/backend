@@ -15,11 +15,15 @@ cd ke nama folder backend
 akses :
 http://localhost/phpmyadmin/
 
+
+jika menggunakan db lokal ----- Skip saja sudah saya hubungkan ke mysql online
 Buat nama db baru :
 auth_system
 
 import sql yang sudah saya sediakan di folder backend.
 jangan lupa jalankan xampp nya.
+
+jika menggunakan db lokal -----
 
 Pastikan sudah terpasang Node.js versi terbaru.
 npm install
